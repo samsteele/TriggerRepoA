@@ -1,1 +1,1 @@
-Hello from TriggerRepoA. This copy is released by pushing a v* tag.
+TriggerRepoA v1.1.0: released via tag push.
